@@ -1,6 +1,8 @@
 # topwords-fbchat
 Visualization of top words used in a Facebook group chat
 
+![alt text](https://github.com/srijansingh21/topwords-fbchat/blob/readme-edits/wordsVISUAL.PNG "wordsVISUAL")
+
 *This is my first ever python project. Also my first github repository.* 
 
 ### All you need to know about this project
