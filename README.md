@@ -9,7 +9,7 @@ Visualization of top words used in Facebook and Instagram group chats
 <img src="./wordsVISUAL_IG.PNG" alt="Instagram group chat" width="450" height="400" style="margin:2px"/>
 </p>
 
-This is my first ever python project. Also my first github repository.
+> This is my first ever python project. Also my first github repository.
 
 ### All you need to know about this project
 
