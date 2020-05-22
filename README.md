@@ -1,14 +1,15 @@
 # topwords-fbchat
 
-## Visualization of top words used in Facebook group chat
+<p align="center">
+Visualization of top words used in Facebook and Instagram group chats
+</p>
 
-![alt text](https://github.com/srijansingh21/topwords-fbchat/blob/master/wordsVISUAL_FB.PNG 'Facebook group chat')
+<p align='center'>
+<img src="./wordsVISUAL_FB.PNG" alt="Facebook group chat" width="450" height="400" style="margin:2px "/>
+<img src="./wordsVISUAL_IG.PNG" alt="Instagram group chat" width="450" height="400" style="margin:2px"/>
+</p>
 
-## Visualization of top words used in Instagram group chat
-
-![alt text](https://github.com/srijansingh21/topwords-fbchat/blob/master/wordsVISUAL_IG.PNG 'Instagram group chat')
-
-- This is my first ever python project. Also my first github repository.\*
+This is my first ever python project. Also my first github repository.
 
 ### All you need to know about this project
 
