@@ -5,8 +5,8 @@ Visualization of top words used in Facebook and Instagram group chats
 </p>
 
 <p align='center'>
-<img src="./wordsVISUAL_FB.PNG" alt="Facebook group chat" width="450" height="400" style="margin:2px "/>
-<img src="./wordsVISUAL_IG.PNG" alt="Instagram group chat" width="450" height="400" style="margin:2px"/>
+<img src="./wordsVISUAL_FB.PNG" alt="Facebook group chat" width="500" height="400" style="margin:2px "/>
+<img src="./wordsVISUAL_IG.PNG" alt="Instagram group chat" width="500" height="400" style="margin:2px"/>
 </p>
 
 > This is my first ever python project. Also my first github repository.
